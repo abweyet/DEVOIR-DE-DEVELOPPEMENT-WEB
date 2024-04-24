@@ -1,0 +1,14 @@
+.bordure, tr,td,table,th{ border-collapse: collapse;
+border:4px solid white;
+padding: 19px;
+font-size:19px;
+}
+
+
+
+	footer {
+  background-color:whitesmoke ;
+  color: solid black;
+  padding: 7px;
+  weight : 30px ;
+}
